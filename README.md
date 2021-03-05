@@ -2,7 +2,7 @@
 
 ---
 
-~IN PROGRESS~
+**IN PROGRESS**
 
 In the field of metabolomics, many metabolites are missing public identifiers, such as Human Metabolome Database (HMDB) or Kyoto Encyclopedia of Genes and Genomes (KEGG) IDs, making pathway analyses incomplete and subject to bias. 
  
